@@ -6,4 +6,8 @@ public class Main {
         string.append("Hello World");
         System.out.println(string);
     }
+
+    public static void perform(){
+        System.out.println("first branch");
+    }
 }

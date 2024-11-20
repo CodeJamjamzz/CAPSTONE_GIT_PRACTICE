@@ -6,4 +6,10 @@ public class Main {
         string.append("Hello World");
         System.out.println(string);
     }
+
+    public static void printName(){
+        System.out.println("Jamiel Kyne Pinca");
+    }
 }
+
+
